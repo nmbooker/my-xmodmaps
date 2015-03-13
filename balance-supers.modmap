@@ -1,0 +1,4 @@
+! Make Menu work the same as Super_L
+remove Mod4 = Super_L
+keycode 135 = Super_L
+add Mod4 = Super_L

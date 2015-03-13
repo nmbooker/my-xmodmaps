@@ -1,0 +1,4 @@
+! Make AltGr act the same as Left Alt
+remove Mod1 = Alt_L
+keycode 108 = Alt_L
+add Mod1 = Alt_L
